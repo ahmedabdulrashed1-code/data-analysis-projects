@@ -25,7 +25,7 @@ Highlighted patterns useful for decision-making
 
 # How to Run the Project
 Clone the repository:
-git clone https://github.com/Ahmed Abdulrashed/your-repo-name.git
+git clone h(https://github.com/ahmedabdulrashed1-code/data-analysis-projects/your-repo-name.git
 
 # Install dependencies:
 pip install -r requirements.txt
