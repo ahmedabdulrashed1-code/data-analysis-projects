@@ -25,7 +25,7 @@ Highlighted patterns useful for decision-making
 
 # How to Run the Project
 Clone the repository:
-git clone h(https://github.com/ahmedabdulrashed1-code/data-analysis-projects/your-repo-name.git
+git clone https://github.com/ahmedabdulrashed1-code/data-analysis-projects
 
 # Install dependencies:
 pip install -r requirements.txt
@@ -36,6 +36,7 @@ jupyter notebook
 # Author
 Ahmed
 Data Analyst | Python • SQL • Power BI
+https://github.com/ahmedabdulrashed1-code
 
 # License
 This project is licensed under the MIT License.
