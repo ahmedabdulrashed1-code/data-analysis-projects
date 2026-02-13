@@ -2,12 +2,12 @@
 # Overview
 This project focuses on exploring, cleaning, analyzing, and visualizing a dataset using Python and Jupyter Notebook. The goal is to extract meaningful insights and present them in a clear, reproducible way.
 # Tools & Technologies
-Python
-pandas
-NumPy
-Matplotlib / Seaborn
-Jupyter Notebook
-Git & GitHub
+Python /
+pandas /
+NumPy/
+Matplotlib / Seaborn 
+Jupyter Notebook /
+Git & GitHub /
 Power BI (for visualization)
 
 # Analysis Steps
