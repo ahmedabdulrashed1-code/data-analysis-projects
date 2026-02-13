@@ -8,7 +8,7 @@ NumPy/
 Matplotlib / Seaborn 
 Jupyter Notebook /
 Git & GitHub /
-Power BI (for visualization)
+visualization
 
 # Analysis Steps
 Data loading and inspection
